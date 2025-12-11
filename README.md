@@ -91,7 +91,7 @@ The Arduino logic is written in **C++** but bypasses standard `analogWrite` func
 
 | PWM Signal (MATLAB/Simulink) | Final Output (Hardware) |
 | :---: | :---: |
-| images/signal%20spwm%201%20of%201.png | *(Add Scope Screenshot)*
+| ![SPWM Signal](images/signal%20spwm%201%20of%201.png) | 
 ---
 
 ## ⚙️ Getting Started

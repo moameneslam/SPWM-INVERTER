@@ -93,7 +93,7 @@ PWM Signal (MATLAB/Simulink)
 ![SPWM Signal](images/signal%20spwm%201%20of%201.png) 
 ---
 Sine Wave Output (MATLAB/Simulink)
-![spwm output](images/spwm%matlab.png)
+![spwm output](images/spwmmatlab.png)
 ---
 Oscillscope Output (Proteus)
 ![Proteus Out](images/proteus.jpg)

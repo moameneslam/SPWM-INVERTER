@@ -88,12 +88,19 @@ The Arduino logic is written in **C++** but bypasses standard `analogWrite` func
 * **Carrier Frequency:** Verified at **31.25 kHz**.
 * **Output Frequency:** Stable at **50.1 Hz**.
 * **Waveform:** Clean Sine Wave after LC filtering.
-
-| PWM Signal (MATLAB/Simulink) | Final Output (Hardware) |
-| :---: | :---: |
-| ![SPWM Signal](images/signal%20spwm%201%20of%201.png) | 
 ---
-
+PWM Signal (MATLAB/Simulink)
+![SPWM Signal](images/signal%20spwm%201%20of%201.png) 
+---
+Sine Wave Output (MATLAB/Simulink)
+![SPWM output](images/spwm%matlab.png)
+---
+Oscillscope Output (Proteus)
+![Proteus Out](images/proteus.jpg)
+---
+Oscillscope Output (Actual)
+![Actual](images/actual.jpg)
+---
 ## ⚙️ Getting Started
 
 ### Prerequisites
